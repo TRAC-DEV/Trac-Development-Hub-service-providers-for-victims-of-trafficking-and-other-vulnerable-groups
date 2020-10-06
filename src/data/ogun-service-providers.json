@@ -1,0 +1,348 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 1,
+                "NAME": "Childhood Advancement and Response and Initiative",
+                "EMAIL": "arewaamina@gmail.com",
+                "ADDRESS": "No 14, Bola Ajibola street, Asero Abeokuta. Ogun State.",
+                "STATE": "Ogun State.",
+                "DIRECTION": "https://goo.gl/maps/sHR5zFajFZbDZc5w5",
+                "PHONE": "+2347030107083",
+                "WEBSITE": "Childhoodadvancement.org",
+                "INSTAGRAM": "https://www.instagram.com/Childadvance/",
+                "FACEBOOK": "https://www.facebook.com/Childadvance",
+                "TWITTER": "https://twitter.com/Childadvance",
+                "LOGO": "https://childhoodadvancement.files.wordpress.com/2020/07/childhood-logo-reduced.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psycho-social support", "Empowerment", "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.1740592, 3.371416]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 2,
+                "NAME": "Women Infants and Children Care Initiative",
+                "EMAIL": "wicci.nigeria@gmail.com",
+                "ADDRESS": "No 4, Ogunbayode street, off Oke-abetu Abeokuta. Ogun State.",
+                "STATE": "Ogun State.",
+                "DIRECTION": "https://goo.gl/maps/JC47tFqqnQq6boFy5",
+                "PHONE": "+2349038939338",
+                "WEBSITE": "www.wiccinigeria.org",
+                "INSTAGRAM": "https://www.instagram.com/wicci_nigeria/",
+                "FACEBOOK": "https://www.facebook.com/WICCINIGERIA",
+                "TWITTER": null,
+                "MODIFIED_D": null,
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment", "Family tracing"
+                ],
+                "LOGO": "http://www.wiccinigeria.org/wp-content/uploads/2019/07/icon9.png",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.1640768, 3.3671702]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 3,
+                "NAME": "Eruobo Center for Children with Special Needs",
+                "EMAIL": "Officergraceodetola@gmail.com",
+                "ADDRESS": "No 1, Stadium road, GRA Ijebu Ode. Ogun State.",
+                "STATE": "Ogun State.",
+                "DIRECTION": "https://goo.gl/maps/VgqZpPvi9MH6Nk9W7",
+                "PHONE": "+2348033938312",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "SERVICE": [
+                    "Psychosocial support", "Shelter", "Empowerment", "Health"
+                ],
+                "TWITTER": null,
+                "WEBSITE": "www.eruobodohouse.org",
+                "MODIFIED_D": null,
+                "LOGO": "http://3.bp.blogspot.com/_hTrXSEyLdsw/S-CzYrtmMPI/AAAAAAAABLc/JryHQKQIeLc/s320/homeentrance.jpg",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.8200204, 3.9329294]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 4,
+                "NAME": "International Women Society Children Home",
+                "EMAIL": "Adeolaadesegun51@gmail.com",
+                "ADDRESS": "No6, Abusalawu avenue GRA Ijebu-Ode. Ogun State.",
+                "STATE": "Ogun State.",
+                "DIRECTION": "https://goo.gl/maps/k8Xd9Qi9c6cB7Mt97",
+                "PHONE": "+234805506624",
+                "INSTAGRAM": "https://www.instagram.com/iwsnigeria/",
+                "FACEBOOK": null,
+                "TWITTER": "https://twitter.com/iwsnigeria",
+                "LOGO": "https://iwsnigeria.org/wp-content/uploads/2020/06/WhatsApp-Image-2020-07-16-at-2.14.13-PM.jpeg",
+                "WEBSITE": "www.iwsnigeria.org",
+                "MODIFIED_D": null,
+                "SERVICE": [
+                    "Psychosocial support", "Shelter", "Empowerment", "Health"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.8210041, 3.9524425]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 5,
+                "NAME": "Rays of Hope Communiuty Foundation",
+                "EMAIL": "ropeprojectib@gmail.com",
+                "ADDRESS": "No 13 Kajola street Ijebu Ode. Ogun State.",
+                "STATE": "Ogun State.",
+                "DIRECTION": "https://goo.gl/maps/4dGjCDnXM9jTdj5F6",
+                "PHONE": "+2348055125468",
+                "INSTAGRAM": "https://www.instagram.com/rohcofng/",
+                "FACEBOOK": "https://www.facebook.com/rohcofng/",
+                "TWITTER": "https://twitter.com/rohcofng",
+                "LOGO": "https://rohcof.org/wp-content/uploads/2019/11/ROHCOF-LOGO-REVIEW-2019-e1573930369126.png",
+                "WEBSITE": "www.rohcof.org",
+                "MODIFIED_D": null,
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Legal",
+                    "Empowerment",
+                    "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.833292, 3.932094]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 6,
+                "NAME": "Peace and Life Enhancement Initiative International",
+                "EMAIL": "Odukoya.olugbenga@pleii.org",
+                "ADDRESS": "No 72 Bonojo street, Ijebu Ode. Ogun State.",
+                "STATE": "Ogun State.",
+                "DIRECTION": "https://goo.gl/maps/NV38rpBVFfz5Nhyq8",
+                "PHONE": "+234816299047",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/PLEIIpeople/",
+                "TWITTER": "http://www.twitter.com/pleii_people",
+                "LOGO": "https://pleii.org/images/change.jpg",
+                "WEBSITE": "www.pleii.org",
+                "MODIFIED_D": null,
+                "SERVICE": [
+                    "Psychosocial support", "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.830188, 3.924241]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 7,
+                "NAME": "Advocate for Health and Development Initiative",
+                "EMAIL": "advocateshdi@gmail.com",
+                "ADDRESS": "No1, United CDA, UNIT 1, Ijoko Lemode, Sango. Ogun State.",
+                "STATE": "Ogun State.",
+                "DIRECTION": "https://goo.gl/maps/3FV1pkyKHCsBSjaMA",
+                "PHONE": "+2348026346076",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": "http://www.twitter.com/advocateshdi",
+                "LOGO": null,
+                "WEBSITE": null,
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment"
+                ],
+                "MODIFIED_D": null,
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.735937, 3.289044]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 8,
+                "NAME": "Child first Welfare foundation",
+                "EMAIL": "Olapejuoshoba.childfirstnigeria@gmail.com",
+                "ADDRESS": "65, Osara Road, Obantoko Abeokuta. Ogun State.",
+                "STATE": "Ogun State.",
+                "DIRECTION": "https://goo.gl/maps/kFimu9iaYGshGpN86",
+                "PHONE": "+2348034428317",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "WEBSITE": null,
+                "SERVICE": [
+                    "Psychosocial support", "Family tracing"
+                ],
+                "MODIFIED_D": null,
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.193214, 3.397011]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 9,
+                "NAME": "Community Education Advancement of Peace and Development Initiative (CEAPDI)",
+                "EMAIL": "ceapdiogun@gmail.com",
+                "ADDRESS": "Suite 5, Oyebola shopping mall Iyana Cele, Car wash Adatan Abeokuta. Ogun State.",
+                "STATE": "Ogun State.",
+                "DIRECTION": "https://goo.gl/maps/JVGSVpPyWjDQj6jW8",
+                "PHONE": "+2348035718963",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "WEBSITE": null,
+                "MODIFIED_D": null,
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.195119, 3.431822]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 10,
+                "NAME": "Child to Child Network",
+                "EMAIL": "Soleye.akingbade@gmail.com",
+                "ADDRESS": "Tekobo Junction, beside rock foundation Idi-Aba, Abeokuta. Ogun State.",
+                "STATE": "Ogun State.",
+                "DIRECTION": "https://goo.gl/maps/z8uQJdq5w3hheZSE9",
+                "PHONE": "+2347031959317",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "WEBSITE": null,
+                "MODIFIED_D": null,
+                "SERVICE": [
+                    "Psychosocial support", "Family tracing", "Empowerment"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.143929, 3.371447]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 11,
+                "NAME": "Catholic Fountain for Life ",
+                "EMAIL": "ceahealth@yahoo.com",
+                "ADDRESS": "Scared heart hospital annex, Oke yidi Lantoro Abeokuta. Ogun State.",
+                "STATE": "Ogun State.",
+                "DIRECTION": "https://goo.gl/maps/emF5qEDWBfuTZuHS7",
+                "PHONE": "+2348136818303",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "WEBSITE": "http://www.catholicfountainforlifeabkdiocese.org",
+                "MODIFIED_D": null,
+                "SERVICE": [
+                    "Psychosocial support", "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.159296, 3.365057]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 12,
+                "NAME": "Janet Bankole Memorial Foundation",
+                "EMAIL": "info@jbmfoundatn@gmail.com",
+                "ADDRESS": "Plot 18, block 42A, Wole Soyinka Rd, Kemta Housing Estate, Idi Aba, Abeokuta. Ogun State.",
+                "STATE": "Ogun State.",
+                "DIRECTION": "https://goo.gl/maps/S4SJsaJZ8Hon6pGy7",
+                "PHONE": "+2348183526000",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/Janet-Bankole-Memorial-Foundation-531038770291582/",
+                "TWITTER": null,
+                "LOGO": "http://www.jbmfoundation.org.ng/wp-content/uploads/2019/10/1222.png",
+                "WEBSITE": "http://www.jbmfoundation.org.ng",
+                "MODIFIED_D": null,
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Legal",
+                    "Empowerment",
+                    "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [7.1520066, 3.3967492]
+            }
+        }
+
+    ]
+}
