@@ -6,7 +6,8 @@ This is a mapping application developed for IOM.
 
 ## Get Started
 
-his project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## Prerequisites
@@ -26,11 +27,13 @@ You will also see any lint errors in the console.
 ### npm test
 
 Launches the test runner in the interactive watch mode.
+
 See the section about [running test](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### npm run build
 
 Builds the app for production to the build folder.
+
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.
@@ -40,7 +43,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Installation
 
-A step by step series of examples that tell you how to get a development env running
+A step by step that tell you how to get a development env running
 
 ```
 Download or fork this repo
@@ -63,7 +66,7 @@ run npm install
 
 ```
 Still within your terminal
-run the react available Script as written above
+run the react available script as written above
 npm start
 ```
 
@@ -72,8 +75,6 @@ npm start
 Depending on your deployment platform
 
 ## Built With
-
-[node](https://nodejs.org/en/download/) - The web framework used.
 
 [ReactStrap](https://reactstrap.github.io/) - The web framework used
 
