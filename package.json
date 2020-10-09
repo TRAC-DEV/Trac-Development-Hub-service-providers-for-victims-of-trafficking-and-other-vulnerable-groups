@@ -1,5 +1,6 @@
 {
     "name": "service-providers-for-victims-of-trafficking-and-other-vulnerable-groups",
+    "homepage": "http://dev.tracdevelopmenthub.com",
     "version": "1.0.0",
     "private": true,
     "dependencies": {

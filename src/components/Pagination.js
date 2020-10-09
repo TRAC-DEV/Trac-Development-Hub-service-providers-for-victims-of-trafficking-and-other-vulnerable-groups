@@ -3,12 +3,29 @@ import React from "react";
 // reactstrap components
 import { Pagination, PaginationItem, PaginationLink } from "reactstrap";
 
-const Paginations = ({ providersPerPage, totalProviders, paginate }) => {
+const Paginations = ({
+  providersPerPage,
+  totalProviders,
+  paginate,
+  currentPage,
+}) => {
   const pageNumbers = [];
 
   for (let i = 1; i <= Math.ceil(totalProviders / providersPerPage); i++) {
     pageNumbers.push(i);
   }
+  const handlePreviousClick = (e) => {
+    e.preventDefault();
+    paginate(currentPage - 1);
+  };
+  const handleNextClick = (e) => {
+    e.preventDefault();
+    paginate(currentPage + 1);
+  };
+  const handleFirstClick = (e) => {
+    e.preventDefault();
+    paginate(1);
+  };
 
   return (
     <>
@@ -17,16 +34,31 @@ const Paginations = ({ providersPerPage, totalProviders, paginate }) => {
           className="pagination justify-content-center"
           listclassName="justify-content-center"
         >
-          <PaginationItem>
-            <PaginationLink
-              href="#pablo"
-              onClick={(e) => e.preventDefault()}
-              currentpage="-1"
-            >
-              <i className=" fa fa-angle-left"></i>
-              <span className=" sr-only">Previous</span>
-            </PaginationLink>
-          </PaginationItem>
+          {currentPage > 1 ? (
+            <PaginationItem>
+              <PaginationLink
+                href="#pablo"
+                onClick={handleFirstClick}
+                tabindex="-1"
+                style={{ color: "black" }}
+              >
+                First
+              </PaginationLink>
+            </PaginationItem>
+          ) : null}
+
+          {currentPage > 1 ? (
+            <PaginationItem>
+              <PaginationLink
+                href="#pablo"
+                onClick={handlePreviousClick}
+                tabindex="-1"
+                style={{ color: "black" }}
+              >
+                Previous
+              </PaginationLink>
+            </PaginationItem>
+          ) : null}
           {pageNumbers.map((number) => (
             <PaginationItem key={number} className="page-item active">
               <PaginationLink
@@ -39,12 +71,11 @@ const Paginations = ({ providersPerPage, totalProviders, paginate }) => {
           ))}
           <PaginationItem>
             <PaginationLink
-              aria-label="Next"
               href="#pablo"
-              onClick={(e) => e.preventDefault()}
+              onClick={handleNextClick}
+              style={{ color: "black" }}
             >
-              <i className=" fa fa-angle-right"></i>
-              <span className=" sr-only">Next</span>
+              Next
             </PaginationLink>
           </PaginationItem>
         </Pagination>
