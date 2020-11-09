@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import React, { useState, useEffect } from "react";
 import Control from "react-leaflet-control";
 
@@ -15,8 +14,8 @@ import {
 
 import { GoogleLayer } from "../../src/googleMap";
 import { Icon } from "leaflet";
-import * as providerData from "../data/ogun-service-providers.json";
-import * as ogunBorder from "../data/ogun-highlight.json";
+import * as providerData from "../data/abuja-service-providers.json";
+import * as lagosBorder from "../data/abuja-highlight.json";
 import DefaultFooter from "components/Footers/DefaultFooter.js";
 import MapNavbar from "components/Navbars/MapNavbar";
 
@@ -57,8 +56,7 @@ export const FIcon = new Icon({
   iconUrl: "/F-Icon.svg",
   iconSize: [30, 30],
 });
-
-const polyLines = ogunBorder.lines.map((poly) => {
+const polyLines = lagosBorder.lines.map((poly) => {
   return poly.reverse();
 });
 
@@ -68,7 +66,7 @@ const road = "ROADMAP";
 
 const { BaseLayer, Overlay } = LayersControl;
 
-function OgunMap(props) {
+function AbujaMap(props) {
   const [activeProvider, setActiveProvider] = useState(null);
   const [legend, setLegend] = useState(
     <div
@@ -166,7 +164,7 @@ function OgunMap(props) {
       <div className="wrapper">
         <div>
           <Map
-            center={[6.998, 3.4737]}
+            center={[9.0765, 7.3986]}
             zoom={8.5}
             style={{
               height: "100vh",
@@ -185,7 +183,7 @@ function OgunMap(props) {
               >
                 <row>
                   <h5> Service Provider Locations</h5>
-                  <h6>Ogun State</h6>
+                  <h6>Abuja</h6>
                 </row>
               </div>
             </Control>
@@ -215,12 +213,13 @@ function OgunMap(props) {
                 <GoogleLayer googlekey={key} maptype={terrain} />
               </BaseLayer>
 
-              <Overlay checked name="Highlight Ogun State">
+              <Overlay checked name="Highlight Abuja">
                 <FeatureGroup fillColor="blue" color="purple">
-                  <Popup>Providers in Ogun</Popup>
+                  <Popup>Providers in Abuja</Popup>
                   <Polygon positions={polyLines} />
                 </FeatureGroup>
               </Overlay>
+
               {providerData.features.map((provider) =>
                 provider.properties.SERVICE.length === 1 &&
                 provider.properties.SERVICE.includes("Empowerment") ? (
@@ -436,4 +435,4 @@ function OgunMap(props) {
   );
 }
 
-export default OgunMap;
+export default AbujaMap;

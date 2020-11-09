@@ -15,8 +15,8 @@ import {
 
 import { GoogleLayer } from "../../src/googleMap";
 import { Icon } from "leaflet";
-import * as providerData from "../data/ogun-service-providers.json";
-import * as ogunBorder from "../data/ogun-highlight.json";
+import * as providerData from "../data/lagos-service-providers.json";
+import * as lagosBorder from "../data/lagos-highlight.json";
 import DefaultFooter from "components/Footers/DefaultFooter.js";
 import MapNavbar from "components/Navbars/MapNavbar";
 
@@ -57,8 +57,7 @@ export const FIcon = new Icon({
   iconUrl: "/F-Icon.svg",
   iconSize: [30, 30],
 });
-
-const polyLines = ogunBorder.lines.map((poly) => {
+const polyLines = lagosBorder.lines.map((poly) => {
   return poly.reverse();
 });
 
@@ -68,7 +67,7 @@ const road = "ROADMAP";
 
 const { BaseLayer, Overlay } = LayersControl;
 
-function OgunMap(props) {
+function LagosMap(props) {
   const [activeProvider, setActiveProvider] = useState(null);
   const [legend, setLegend] = useState(
     <div
@@ -166,7 +165,7 @@ function OgunMap(props) {
       <div className="wrapper">
         <div>
           <Map
-            center={[6.998, 3.4737]}
+            center={[6.45407, 3.39467]}
             zoom={8.5}
             style={{
               height: "100vh",
@@ -185,7 +184,7 @@ function OgunMap(props) {
               >
                 <row>
                   <h5> Service Provider Locations</h5>
-                  <h6>Ogun State</h6>
+                  <h6>Lagos State</h6>
                 </row>
               </div>
             </Control>
@@ -217,10 +216,11 @@ function OgunMap(props) {
 
               <Overlay checked name="Highlight Ogun State">
                 <FeatureGroup fillColor="blue" color="purple">
-                  <Popup>Providers in Ogun</Popup>
+                  <Popup>Providers in Lagos</Popup>
                   <Polygon positions={polyLines} />
                 </FeatureGroup>
               </Overlay>
+
               {providerData.features.map((provider) =>
                 provider.properties.SERVICE.length === 1 &&
                 provider.properties.SERVICE.includes("Empowerment") ? (
@@ -436,4 +436,4 @@ function OgunMap(props) {
   );
 }
 
-export default OgunMap;
+export default LagosMap;

@@ -18,9 +18,11 @@ function ProviderPageHeader() {
     });
     setCurrentProvider(activeProvider[0]);
   }, [providerName, providers]);
+
   const providerProperties = { ...currentProvider }.properties;
   const logo = { ...providerProperties }.LOGO;
   const service = { ...providerProperties }.SERVICE_LIST;
+
   useEffect(() => {
     if (window.innerWidth > 991) {
       const updateScroll = () => {

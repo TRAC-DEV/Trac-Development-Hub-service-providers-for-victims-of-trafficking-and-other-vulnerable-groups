@@ -126,7 +126,7 @@ function Index(props) {
                         <option value="Lagos State.">Lagos</option>
                         <option value="Edo State.">Edo</option>
                         <option value="Delta State.">Delta</option>
-                        <option value="FCT">Abuja</option>
+                        <option value="FCT.">Abuja</option>
                       </Input>
                     </Label>
                   </Col>

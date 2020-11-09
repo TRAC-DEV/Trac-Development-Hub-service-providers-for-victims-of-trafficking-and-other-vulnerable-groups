@@ -11,6 +11,10 @@ import "assets/demo/nucleo-icons-page-styles.css";
 import Index from "views/Index.js";
 import Provider from "views/Provider";
 import OgunMap from "views/ogunMap";
+import LagosMap from "views/lagosMap";
+import EdoMap from "views/edoMap";
+import DeltaMap from "views/deltaMap";
+import AbujaMap from "views/abujaMap";
 // import LayersControlExample from "views/test";
 
 ReactDOM.render(
@@ -22,6 +26,10 @@ ReactDOM.render(
           path="/provider-page/:id"
           render={(props) => <Provider {...props} />}
         />
+        <Route path="/lagos-map" render={(props) => <LagosMap {...props} />} />
+        <Route path="/edo-map" render={(props) => <EdoMap {...props} />} />
+        <Route path="/delta-map" render={(props) => <DeltaMap {...props} />} />
+        <Route path="/abuja-map" render={(props) => <AbujaMap {...props} />} />
         {/* <Route
           path="/test"
           render={(props) => <LayersControlExample {...props} />}

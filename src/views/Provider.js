@@ -42,6 +42,21 @@ function Provider(props) {
     if (state === "Ogun State.") {
       props.history.push("/ogun-map");
     }
+    if (state === "Lagos State.") {
+      props.history.push("/lagos-map");
+    }
+
+    if (state === "Edo State.") {
+      props.history.push("/edo-map");
+    }
+
+    if (state === "Delta State.") {
+      props.history.push("/delta-map");
+    }
+
+    if (state === "FCT.") {
+      props.history.push("/abuja-map");
+    }
   };
 
   useEffect(() => {

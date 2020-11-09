@@ -367,7 +367,2499 @@
                 "type": "Point",
                 "coordinates": [7.1520066, 3.3967492]
             }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 14,
+                "NAME": "O5 Center for Children",
+                "EMAIL": "ololade@O5centre.org",
+                "ADDRESS": "6 Emmanuel Olorunfemi street, off otunubi street, Haruna bus stop College road Ifako, Ogba. Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/63rhAkbtU7fiLZ9j8",
+                "PHONE": "+2348099649269",
+                "WEBSITE": "o5centre.org",
+                "INSTAGRAM": "https://www.instagram.com/o5centre/",
+                "FACEBOOK": "https://www.facebook.com/TheO5centre/",
+                "TWITTER": "https://twitter.com/o5centre",
+                "LOGO": "http://www.o5centre.org/images/A_sunflower-Edited2.png",
+                "MODIFIED_D": "",
+                "SERVICE": ["Empowerment"],
+                "SERVICE_LIST": "Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062740/tracdev/ID-14_q5kz8y.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.638161, 3.331437]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 15,
+                "NAME": "Anti Trafficking Legal Hub",
+                "EMAIL": "antitip.legalhublagos@gmail.com",
+                "ADDRESS": "Faculty of Law, University of Lagos, Akoka. Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/TdWs6L9GXvuafbig6",
+                "PHONE": "+2348033018176",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": ["Legal"],
+                "SERVICE_LIST": "Legal",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062758/tracdev/ID-15_ruhzcw.jpg"
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.5186, 3.3933]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 16,
+                "NAME": "Bakhita St. Loius Empowerment Network",
+                "EMAIL": "info@bakhita.ng / pnebegbulem@gmail.com",
+                "ADDRESS": "11 Leye Omoniyi Close, Boys Town, Ipaja. Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/XEDLjUVszdbNPRxB6",
+                "PHONE": "+2348065556555",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Family tracing"
+
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062751/tracdev/ID-_16_zupx10.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.6017, 3.2675]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 17,
+                "NAME": "Bimbo Odukoya Foundation",
+                "EMAIL": "admin@pbofoundation.org",
+                "ADDRESS": "12 Industrial Estate Road, Ilupeju, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/n7tLM3udy3NP4NG58",
+                "PHONE": "+2348035800201",
+                "WEBSITE": "www.pbofoundation.org",
+                "INSTAGRAM": "https://www.instagram.com/bimboodukoyafoundation/",
+                "FACEBOOK": "https://www.facebook.com/PastorBimboOdukoyaFoundation/",
+                "TWITTER": "https://twitter.com/pbof05",
+                "LOGO": "http://pbofoundation.org/wp-content/uploads/2018/07/20170414_114028.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Legal",
+                    "Empowerment",
+                    "Health",
+                    "Family tracing"
+
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Legal, Empowerment, Health, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062740/tracdev/ID-_17_hyq1mr.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.5537, 3.3565]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 18,
+                "NAME": "Centre for Children's Health Education Orientation and Protection, Cee-Hope Nigeria",
+                "EMAIL": "info@ceehope.com /dorcasblessing77@gmail.com",
+                "ADDRESS": "6 Bolodeoku Street, Dideolu Estate, Ogba, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/3B7LrN1tPuM62EDB8",
+                "PHONE": "+2347061394445",
+                "WEBSITE": "www.ceehope.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/CeeHopeNG/",
+                "TWITTER": "https://twitter.com/ceehopenigeria",
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Legal", "Empowerment", "Health"
+
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Legal, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062741/tracdev/ID-_18_ofq3ll.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.6276, 3.3373]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 19,
+                "NAME": "Cece Yara Foundation",
+                "EMAIL": "help@ceceyara.org",
+                "ADDRESS": "2a Akin Ogunmade Davies Ckose, Gbagada Phase 1, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/rcC4S6xgF3PHm5CH7",
+                "PHONE": "+2348008008001",
+                "WEBSITE": "www.ceceyara.org",
+                "INSTAGRAM": "https://www.instagram.com/cece_yara/",
+                "FACEBOOK": "https://www.facebook.com/ceceyarafoundation",
+                "TWITTER": "https://twitter.com/cece_yara",
+                "LOGO": "https://www.ceceyara.org/images/logo2.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Legal",
+                    "Empowerment",
+                    "Health",
+                    "Family tracing"
+
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Legal, Empowerment, Health, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062744/tracdev/ID-19_p1475d.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.545800, 3.383300]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 20,
+                "NAME": "Children Emmergency Relief Foundation (CERF)",
+                "EMAIL": "childrenemmergencyrelief@gmail.com",
+                "ADDRESS": "44 Sulaimon Shodero Street, Powerline, Ikorodu, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/cGUBPqrAASsy8mej9",
+                "PHONE": "+2348026542843",
+                "WEBSITE": "www.worldcerf.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/pg/Children-Emmergency-Relief-Foundation-CERF-287398821745694/about/",
+                "TWITTER": null,
+                "LOGO": "https://www.worldcerf.org/wp-content/uploads/2020/08/cropped-CERF-logo-3.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062726/tracdev/ID-_20_oduxdk.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.6259, 3.5001]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 21,
+                "NAME": "Child To Child Network",
+                "EMAIL": "childtochildnt@yahoo.com / ccn_lagos@yahoo.com",
+                "ADDRESS": "33 Aguntansolo, Off Omilani Street, Ijesha, Surulere., Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/dHeLT2aXVKGN2eRk6",
+                "PHONE": "+2348147651265",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment", "Health", "Family tracing"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062720/tracdev/ID-_21_mpjhod.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.4933, 3.3299]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 22,
+                "NAME": "Child Right Awareness and Creation Organisation (CRACO)",
+                "EMAIL": "cracong@gmail.com / info@cracong.org",
+                "ADDRESS": "12 Adegbola Street, Anifowose Ikeja, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/fXsxrBkRdY1yUPKo6",
+                "PHONE": "+2347067956494",
+                "WEBSITE": "www.cracong.org",
+                "INSTAGRAM": "https://www.instagram.com/craconig/",
+                "FACEBOOK": "https://www.facebook.com/CRACONG/",
+                "TWITTER": null,
+                "LOGO": "http://www.cracong.org/craco/wp-content/uploads/2014/09/newlogo.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment", "Legal", "Family tracing"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062683/tracdev/ID-_22_w6rgyc.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.5969, 3.3357]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 23,
+                "NAME": "Divine Heritage Children Centre (DHCC)",
+                "EMAIL": "info@divineheritagehome.org",
+                "ADDRESS": "Block 11, Plot 1, Noble Professional Estate, Ginti, Ikorodu, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/yBjBKtjLCQ384eeLA",
+                "PHONE": "+2348150467001",
+                "WEBSITE": "www.divineheritagehome.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/dhccng/",
+                "TWITTER": "https://twitter.com/dhccng",
+                "LOGO": "http://www.divineheritagehome.org/templates/dd_media_102/images/designer/logo.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Health",
+                    "Empowerment",
+                    "Legal",
+                    "Family tracing"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Legal, Health, Empowerment, Family tracing ",
+
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062693/tracdev/ID-_23_jta0q5.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.6076, 3.5767]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 24,
+                "NAME": "DSVRT Lagos",
+                "EMAIL": null,
+                "ADDRESS": "Opposite Ministry of Justice, Alausa Secreteriat, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/uT26Py6jex2n7eVg6",
+                "PHONE": "*6820# / 6820 (SMS); +2348000333333",
+                "WEBSITE": "www.dsvrtlagos.org",
+                "INSTAGRAM": "https://www.instagram.com/dsvrt/",
+                "FACEBOOK": "https://facebook.com/dsvrt",
+                "TWITTER": "https://twitter.com/dsvrt?lang=en",
+                "LOGO": "http://www.dsvrtlagos.org/images/logo.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Legal",
+                    "Family tracing",
+                    "Health"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Legal, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062671/tracdev/ID-_24_sc8fnt.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.621123, 3.360936]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 25,
+                "NAME": "Freedom Foundation ",
+                "EMAIL": "info@freedomfoundationng.org",
+                "ADDRESS": "1 freedom way, End of Admiralty way, Lekki Phase 1, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/vUjQ7YuwBJz47b4h7",
+                "PHONE": "+2348087290000",
+                "WEBSITE": "www.freedomfoundationng.org",
+                "INSTAGRAM": "https://www.instagram.com/freedom_fdn/",
+                "FACEBOOK": "https://www.facebook.com/freedomfoundationnigeria",
+                "TWITTER": "https://twitter.com/freedom_fdn",
+                "LOGO": "https://pbs.twimg.com/profile_images/1236945069682429958/OgGBb-DK_400x400.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Family tracing",
+                    "Health"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062670/tracdev/ID-_25_ty7o88.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.4459, 3.4821]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 26,
+                "NAME": "Global Anti Human Trafficking Organization (GAHTO)",
+                "EMAIL": " info@gahto.org; war.againsthumantrafficking@gmail.com",
+                "ADDRESS": " 6, Jamiu Balogun Street Ikosi Ketu, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/Apb2aKeNi2rLVDtm7",
+                "PHONE": "+2348166857995",
+                "WEBSITE": "www.gahto.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": "https://gahto.org/wp-content/uploads/2020/01/cropped-GAHTO-LOGO-507x156.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": ["Empowerment"],
+                "SERVICE_LIST": "Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062701/tracdev/ID-_26_ihfotu.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.608610, 3.377387]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 27,
+                "NAME": "Gracehill Behavioural Services",
+                "EMAIL": "info@gbhs.com.ng",
+                "ADDRESS": "8b Obadare Street, Lakeview Estate, Amuwo Odofin, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/1nycAhs9GsGDbQz77",
+                "PHONE": "+2347012519431",
+                "WEBSITE": "www.gbhs.com.ng",
+                "INSTAGRAM": "https://www.instagram.com/gracehillplace/",
+                "FACEBOOK": "https://www.facebook.com/gracehillplace/",
+                "TWITTER": "https://twitter.com/GracehillPlace",
+                "LOGO": "https://gbhs.com.ng/wp-content/uploads/2019/08/logo_new.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Health", "Shelter", "Family tracing"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Health, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062698/tracdev/ID-_27_kdra6r.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.476865, 3.300815]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 28,
+                "NAME": "Heritage Homes",
+                "EMAIL": "heritagehomesinfo@yahoo.com",
+                "ADDRESS": "45 Faramobi Ajike street, Anthony, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/CZptr93mKaVxRuf76",
+                "PHONE": "+2348024960039",
+                "WEBSITE": "http://heritageorphanage.com",
+                "INSTAGRAM": "https://www.instagram.com/heritagehomesorphanage_ng/",
+                "FACEBOOK": "https://www.facebook.com/Heritage-Homes-Orphanage-181664711879159/",
+                "TWITTER": null,
+                "LOGO": "https://i2.wp.com/heritageorphanage.com/wp-content/uploads/2019/10/heritage_logo_text.png?fit=327%2C88",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Shelter", "Empowerment", "Family tracing"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062652/tracdev/ID-_28_jq5ycx.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.560864, 3.368978]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 29,
+                "NAME": "Human Development Initiative",
+                "EMAIL": "info@hdinigeria.org / hdi4nigeria@gmail.com",
+                "ADDRESS": "2 Iwaya Road, Grace House, Off Onike, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/R5VMZhB8aoaWHN2y5",
+                "PHONE": "+2348080551376",
+                "WEBSITE": "www.hdinigeria.org",
+                "INSTAGRAM": "https://www.instagram.com/hdi4nigeria/",
+                "FACEBOOK": "https://www.facebook.com/hdinigeria/",
+                "TWITTER": "https://twitter.com/hdi4nigeria",
+                "LOGO": "https://hdinigeria.org/hdinigeria/wp-content/uploads/2019/01/cropped-new-HDI-logo-1.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Legal", "Empowerment", "Family tracing"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062632/tracdev/ID-_29_oz7qlj.jpg"
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.509, 3.3859]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 30,
+                "NAME": "Institute of Counselling",
+                "EMAIL": "info@instituteofcounselling.org / counselor@instituteofcounselling.org",
+                "ADDRESS": "10 Sunbo Jibowu, Off Ribadu Off Awolowo, Ikoyi, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/DjEW8d25ApyRTrWa9",
+                "PHONE": "+2348188783527",
+                "WEBSITE": "https://instituteofcounseling.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/instituteofcounselingnigeria/",
+                "TWITTER": null,
+                "LOGO": "https://i0.wp.com/instituteofcounseling.org/storage/2020/01/cropped-IMG_9398-e1590841074213.jpg?resize=129%2C61&ssl=1",
+                "MODIFIED_D": "",
+                "SERVICE": ["Psychosocial support"],
+                "SERVICE_LIST": "Psychosocial support",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062658/tracdev/ID-_30_gbfvi4.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.4434, 3.419]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 31,
+                "NAME": "International Press Centre",
+                "EMAIL": "larogundade@ipcng.org",
+                "ADDRESS": "House 11, Dideolu Court, Dideolu Estate, Ogba, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/DjgDYvWvf1DXNrzz6",
+                "PHONE": "+2348023186845",
+                "WEBSITE": "www.ipcng.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/ipcng.org/",
+                "TWITTER": "https://twitter.com/ipcng",
+                "LOGO": "https://www.ipcng.org/wp-content/uploads/2020/06/IPC-Logo.png",
+                "MODIFIED_D": "",
+                "SERVICE": ["Empowerment"],
+                "SERVICE_LIST": "Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062639/tracdev/ID-_31_veqzwp.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.6299, 3.3367]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 32,
+                "NAME": "International Federation of Women Lawyers FIDA",
+                "EMAIL": "fida_lagos@yahoo.com",
+                "ADDRESS": "14/16 Herbert Macaulay Way, Yaba, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/X5qzFf742BXL5fW67",
+                "PHONE": "+2348033387856",
+                "WEBSITE": "https://fida.org.ng/lagos/",
+                "INSTAGRAM": "https://www.instagram.com/fida.nigeria/",
+                "FACEBOOK": "https://m.facebook.com/fida.nigeria",
+                "TWITTER": "https://twitter.com/FIDANigeria",
+                "LOGO": "https://fida.org.ng/wp-content/uploads/2019/03/log-1.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Legal", "Empowerment"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Legal, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062578/tracdev/ID-_32_wqih7c.jpg"
+
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.479893, 3.383401]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 33,
+                "NAME": "The Justice, Development and Peace Commission (JDPC)",
+                "EMAIL": "jdpcarchlag@yahoo.co.uk; dsaintlyghost@yahoo.com",
+                "ADDRESS": " 19, Maye Street, Yaba, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/GS8URMu4dEshgHk89",
+                "PHONE": "+2348102580516",
+                "WEBSITE": "www.jdpcarchlag.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/jdpcarchlag/",
+                "TWITTER": "https://twitter.com/JDPCArchLag",
+                "LOGO": "https://jdpcarchlag.org/wp-content/uploads/2019/10/JDPC-Lagos-Logo_Mobile-Retina-Default.png",
+                "MODIFIED_D": "",
+                "SERVICE": ["Empowerment"],
+                "SERVICE_LIST": "Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062578/tracdev/ID-_33_ul4qcb.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.508318, 3.37307]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 34,
+                "NAME": "Lagos State Ministry of Youths and Social Development/ Child Protection Unit (MYSD)",
+                "EMAIL": "bukayoodukoya@gmail.com",
+                "ADDRESS": "MYSD Block 18, lagos secreteriat Alausa Ikeja, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/feD6sdZoQBudEzDRA",
+                "PHONE": "+2348097226696",
+                "WEBSITE": "www.lagosstate.gov.ng/ministry/youthandsocialdevelopment",
+                "INSTAGRAM": "https://www.instagram.com/lagos_mysd/?hl=en",
+                "FACEBOOK": "https://web.facebook.com/MYSD-Lagos-State-Ministry-of-Youth-Social-Development-1686562254891394/",
+                "TWITTER": "https://twitter.com/lagosmysd?lang=en",
+                "LOGO": "https://lagosstate.gov.ng/storage/2019/05/images-1.jpeg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Legal",
+                    "Family tracing"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Legal, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062637/tracdev/ID-_34_gubukq.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.617214, 3.361357]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 35,
+                "NAME": "MediaConcern Initiative for Women and Children",
+                "EMAIL": null,
+                "ADDRESS": "23 Adepitan street, off Haruna street, College Road Ogba, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/LTj16xVipEC4evCZ8",
+                "PHONE": "'08099522487, 08058207164, 08023331036",
+                "WEBSITE": "www.mediaconcern.net",
+                "INSTAGRAM": "https://www.instagram.com/mediacon/",
+                "FACEBOOK": "https://web.facebook.com/MediaCon/",
+                "TWITTER": "https://twitter.com/mediacon_",
+                "LOGO": "https://www.mediaconcern.net/assets/logo/logo.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Empowerment", "Psychosocial support"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062636/tracdev/ID-_35_sw2y3w.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.642312, 3.332178]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 36,
+                "NAME": "Nigerian Bar Association Ikorodu Branch",
+                "EMAIL": "olatounolabnjo@gmail.com",
+                "ADDRESS": "50 Ayangburen Road, Ikorodu, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/zrCEn1AvcDPWMfD3A",
+                "PHONE": "+2348023261265",
+                "WEBSITE": null,
+                "INSTAGRAM": "https://www.instagram.com/nba_ikorodu_domesticviolence/",
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Legal", "Empowerment", "Psychosocial support"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Legal, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062604/tracdev/ID-_36_ye1izc.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.6162, 3.5021]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 37,
+                "NAME": "Ovie Brume Foundation",
+                "EMAIL": "info@oviebrumefoundation",
+                "ADDRESS": "29a Gafari Animashaun Street, Off Ajose Adeogun, Victoria Island, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/oKq3NoF5Ri7VV2Ww9",
+                "PHONE": "+23412702326",
+                "WEBSITE": "www.oviebrumefoundation.org",
+                "INSTAGRAM": "https://www.instagram.com/oviebrumefoundation/",
+                "FACEBOOK": "http://facebook.com/oviebrumefoundation",
+                "TWITTER": "http://twitter.com/oviebrumefound",
+                "LOGO": "https://oviebrumefoundation.org/en/wp-content/uploads/2017/03/LOGO2.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+
+                    "Psychosocial support", "Empowerment", "Health"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062512/tracdev/ID-_37_d958d7.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.4298, 3.4332]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 38,
+                "NAME": "Patrotic Citizen Innitiative (PCI)",
+                "EMAIL": "patroticcitizeninitiatives@yahoo.com",
+                "ADDRESS": "20 Godwin Iyamu Stree, Isoto, Command Road, Ipaja, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/FfWu1fqGksNZN3Yq9",
+                "PHONE": "+2348103168394",
+                "WEBSITE": "www.pcinigeria.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/PCI-Campaign-Activity-109465144128786/",
+                "TWITTER": null,
+                "LOGO": "http://www.pcinigeria.org/wp-content/uploads/2019/03/pci-new.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Legal",
+                    "Family tracing"
+
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Legal, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062521/tracdev/ID-_38_iqjxuq.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.6427, 3.2487]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 39,
+                "NAME": "Real Women Foundation",
+                "EMAIL": "info@therealwomen.org / peacevilla@therealwomem.org",
+                "ADDRESS": "7b Jubilee, CMD Road, Magodo, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/ZeinLjckqesZd7cc9",
+                "PHONE": "+2348032753267",
+                "WEBSITE": "www.therealwoman.org",
+                "INSTAGRAM": "https://www.instagram.com/drealwoman/",
+                "FACEBOOK": "https://www.facebook.com/TheRealWomanFoundation/",
+                "TWITTER": "https://twitter.com/DRealWoman",
+                "LOGO": "https://pbs.twimg.com/profile_images/1881111408/logo_for_twitter_400x400.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+
+                    "Psychosocial support", "Shelter", "Empowerment", "Health"
+
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Health, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062525/tracdev/ID-_39_m5qosr.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.6193, 3.3652]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 40,
+                "NAME": "Safe Haven Foundation",
+                "EMAIL": "safehavendevelopmentinitiative@gmail.com; maonah2001@gmail.com",
+                "ADDRESS": "6 Emmanuel Olorunfemi street, off otunubi street, Haruna busstop College road Ifako, Ogba, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/gwrbxbUhgiRjC8cD7",
+                "PHONE": "+2348094328178",
+                "WEBSITE": "www.safehavendevinitiative.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": ["Family tracing"],
+                "SERVICE_LIST": "Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062616/tracdev/ID-40_ajbbut.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.638161, 3.331437]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 41,
+                "NAME": "Stand To End Rape Initiative (STER)",
+                "EMAIL": "contactus@standtoendrape.org",
+                "ADDRESS": "1b Godson Ilodianya Close, Off Ayo Babatunde Crescent, Oniru, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/qe9Wg7czCGQG5jZ19",
+                "PHONE": "+2348095967000",
+                "WEBSITE": "www.standtoendrape.org",
+                "INSTAGRAM": "https://www.instagram.com/standtoendrape/",
+                "FACEBOOK": "https://www.facebook.com/StandtoEndRape/",
+                "TWITTER": "https://twitter.com/standtoendrape",
+                "LOGO": "https://standtoendrape.org/wp-content/uploads/2020/03/Web-Logo@1x.svg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+
+                    "Psychosocial support", "Empowerment", "Legal"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Legal, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062633/tracdev/ID-_41_h6ixie.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.4297, 3.4581]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 42,
+                "NAME": "Women Consortium of Nigeria (WONCON)",
+                "EMAIL": "wocon95@yahoo.com",
+                "ADDRESS": "13 Okesuna Street, off Igbosere Road, Lagos Island, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/eLuqwSpmFNfKfg9f9",
+                "PHONE": "+2348033347896",
+                "WEBSITE": "https://www.womenconsortiumofnigeria.org",
+                "INSTAGRAM": "https://www.instagram.com/wocon_/",
+                "FACEBOOK": "www.facebook.com/woconnigeria/",
+                "TWITTER": "https://twitter.com/womenconng?lang=en",
+                "LOGO": "https://www.womenconsortiumofnigeria.org/sites/default/files/wocon-logo.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+
+                    "Psychosocial support", "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062525/tracdev/ID-_42_bdolq8.jpg"
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.4498, 3.4038]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 43,
+                "NAME": "Womens Right and Health Project (WRAHP)",
+                "EMAIL": "whr.project@yahoo.com",
+                "ADDRESS": "196, Egbe-Ikotun road, Ile-Epo bus stop, Ejigbo, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/RLXwKY6J3ShGUwUZ7",
+                "PHONE": "+2348134017270",
+                "WEBSITE": "www.womensrightandhealth.org",
+                "INSTAGRAM": "https://www.instagram.com/wrahpnigeria/?hl=en",
+                "FACEBOOK": "https://www.facebook.com/wrahpnigeria",
+                "TWITTER": "https://twitter.com/wrahpnigeria",
+                "LOGO": "https://pbs.twimg.com/profile_images/984016846570573824/e8wbLGT-_400x400.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+
+                    "Psychosocial support", "Empowerment", "Family tracing", "Legal"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062551/tracdev/ID-_43_bzbrks.jpg"
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.570399, 3.283271]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 44,
+                "NAME": "Women At Risk International Foundation",
+                "EMAIL": "kemi.dasilva@warifng.org; communications@warifng.org",
+                "ADDRESS": "6 Turton street, Off Thorbourn Avenue, Sabo Yaba, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/WHApCpeEtUYNiSzR9",
+                "PHONE": "+2348092100009",
+                "WEBSITE": "www.womensrightandhealth.org",
+                "INSTAGRAM": "https://www.instagram.com/warif_ng/",
+                "FACEBOOK": "https://www.facebook.com/warifng",
+                "TWITTER": "https://twitter.com/warif_ng",
+                "LOGO": "https://secureservercdn.net/166.62.110.213/opu.070.myftpupload.com/wp-content/uploads/2017/03/logo-2.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+
+                    "Psychosocial support", "Empowerment", "Health"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062524/tracdev/ID-_44_zpenvz.jpg"
+
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.507871, 3.374000]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 45,
+                "NAME": "Women Advocate Research & Documentation Centre (WARD)",
+                "EMAIL": "womenadvocate@yahoo.com, abiolaak@yahoo.com",
+                "ADDRESS": "9b James Oluleye Crescent (Harmony Enclave), off Adeniyi Jones by Koko bus stop, Ikeja, Lagos State.",
+                "STATE": "Lagos State.",
+                "DIRECTION": "https://goo.gl/maps/8akXKwqQ3WsY4yBt6",
+                "PHONE": "+2348180056401",
+                "WEBSITE": "https://wardcnigeria.org",
+                "INSTAGRAM": "https://www.instagram.com/womenadvocate/",
+                "FACEBOOK": "https://web.facebook.com/Women-advocate-1078833335648054/",
+                "TWITTER": "https://twitter.com/womenadvocate",
+                "LOGO": "http://wardcnigeria.org/wp-content/uploads/2019/07/WhatsApp-Image-2018-04-16-at-11.03.20-AM-300x156.jpeg",
+                "MODIFIED_D": "",
+                "SERVICE": ["Empowerment"],
+                "SERVICE_LIST": "Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null,
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604062507/tracdev/ID-_45_kh7bk2.jpg"
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.616632, 3.347611]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 46,
+                "NAME": "Catholic CHESS Project",
+                "EMAIL": "oezehi@yahoo.com",
+                "ADDRESS": "No1  Ezehi Ezehi Avenue, Efandion Qtrs,Uromi. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/jNoMuyLoyhTqkCUE6",
+                "PHONE": "+2348026701485",
+                "WEBSITE": "http://catholicchess.com.ng",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/catholicchessproject/",
+                "TWITTER": null,
+                "LOGO": "http://catholicchess.com.ng/wp-content/uploads/2016/11/chesslogo.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Shelter", "Empowerment", "Legal"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Legal, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604848002/tracdev/ID-46_nvn1aa.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.696014, 6.330549]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 47,
+                "NAME": "Catholic Counselling and Education Centre",
+                "EMAIL": "cacoedngo@gmail.com",
+                "ADDRESS": "24,Dawson Road Benin City. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/sdAdD3Zhn6bbMEMa9",
+                "PHONE": "+2349052201692",
+                "WEBSITE": "www.catholiccoed.com",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604848001/tracdev/ID-_47_xlyvxi.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.3453944, 5.6305324]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 48,
+                "NAME": "ChariLove Foundation, AKA Project Charilove",
+                "EMAIL": "charilove99@yahoo.com",
+                "ADDRESS": "Charilove center, Sapele Road, Opposite Specialist Hospital, by Kings square Benin City. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/b55zof6N6BDBBPCB8",
+                "PHONE": "+2348034403337",
+                "WEBSITE": "www.charilove.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/public/Charilove",
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604847997/tracdev/ID-_48_k7dgho.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.330992, 5.62444444]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 49,
+                "NAME": "Cole Orphanage and Counselling",
+                "EMAIL": "nathyame@yahoo.com",
+                "ADDRESS": "No 25 muyinwa Road off pascal  oredo LGA Edo state. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/3WSdwKn6jAMhkamm7",
+                "PHONE": "+2348033601788",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604847983/tracdev/ID-_49_q7hjg4.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.355631, 5.616349]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 50,
+                "NAME": "Community  for the Support of Dignity of Women (COSUDOW)",
+                "EMAIL": "cosudow99@yahoo.com",
+                "ADDRESS": "No. 6A Ehaekpen street,off Igbeamwan street,off Akpakpava Road,Benin city. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/gj2DNTmXXq3RUg1i6",
+                "PHONE": "+2348033601788",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Legal",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Legal, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604847986/tracdev/ID-_50_bqrw5e.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.337948, 5.611275]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 51,
+                "NAME": "Initiative For Disability Empowerment With Accessibility And Support (IDEAS)",
+                "EMAIL": "ideasforthedisabled@gmail.com",
+                "ADDRESS": "89, Ekenwan Road, Benin City. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/8aRTC7DVqwpyvS8G6",
+                "PHONE": "+2348037212644",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/pathfindersji/",
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604848001/tracdev/ID-_51_taxpou.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.346357, 5.593499]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 52,
+                "NAME": "Idia  Renaissance ",
+                "EMAIL": "idiarenaissance@yahoo.co.uk",
+                "ADDRESS": "No 3, Ihama road, Benin City. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/VWeu9Teh6Ui5LE2RA",
+                "PHONE": "+2348170007284",
+                "WEBSITE": "http://www.idia-renaissance.org",
+                "INSTAGRAM": "https://www.instagram.com/idiarenaissancengo/",
+                "FACEBOOK": "https://www.facebook.com/idiarenaissanceNGON/",
+                "TWITTER": "https://twitter.com/idiarenaissance",
+                "LOGO": "http://www.idia-renaissance.org/img/logo.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604847991/tracdev/ID-_52_y7fxaq.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.313458, 5.611184]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 53,
+                "NAME": "NAME Foundation",
+                "EMAIL": "namefoundation@yahoo.com",
+                "ADDRESS": "93, 2nd East Circular Rd, Benin City, Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/bjJXW6mGk2cBV3XM6",
+                "PHONE": "+2348125793721",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/namefoundation/",
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604847992/tracdev/ID-_53_w6ocq8.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.330696, 5.638318]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 54,
+                "NAME": "PathFinders Justice Initiative, Inc.",
+                "EMAIL": "reidahosa@pathfindersji.org",
+                "ADDRESS": "No 1 Faithway, off Adesuwa Grammar school Road, Benin City, Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/6qQWCRTKKbQBDMED7",
+                "PHONE": "+2348170007284",
+                "WEBSITE": "https://pathfindersji.org",
+                "INSTAGRAM": "https://www.instagram.com/findyrpath/",
+                "FACEBOOK": "https://www.facebook.com/pathfindersji/",
+                "TWITTER": "https://twitter.com/PathfindersJI",
+                "LOGO": "https://pathfindersji.org/wp-content/themes/pathfinders/images/logo_whitegreen.svg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Legal",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Legal, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604847994/tracdev/Id-_54_upbtxg.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.3032136, 5.6120388]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 55,
+                "NAME": "Society for the Empowerment of Young Persons (SEYP)",
+                "EMAIL": "jenyvics@yahoo.com",
+                "ADDRESS": "No 9 Amadasun Street Off Lucky Omoregbe Strret,Off Ehigiator Off PZ Road Benin City. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/ZE5nyBGpVqLqP9vg6",
+                "PHONE": "+2348051656202",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Legal",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604847980/tracdev/ID-_55_dnqlqo.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.286828, 5.633825]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 56,
+                "NAME": "Best Sisters Association for Health",
+                "EMAIL": "Bsannigeria@yhaoo.com",
+                "ADDRESS": "No 9, Engineer Myemuefe Peter Ideh Road, Amachai Qtrs, Okpanam town, Asaba, Delta state.",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/h5i8fHhkN8hzRdQA9",
+                "PHONE": "+2348034909429",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Health",
+                    "Empowerment",
+                    "Legal",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872176/tracdev/ID-_56_iupyiq.jpg",
+
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.242083, 6.646083]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 57,
+                "NAME": "Community Empowerment and Development Initiative",
+                "EMAIL": "cedin@yahoo.com",
+                "ADDRESS": "44 Airport road beside Pemock petroleum. Warri, Delta state.",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/usrp3Ra4FY12tQLB6",
+                "PHONE": "+2348034725982",
+                "WEBSITE": "www.cedingo.org",
+                "INSTAGRAM": "https://www.instagram.com/cedingo1/",
+                "FACEBOOK": "https://www.facebook.com/Community-Empowerment-and-Development-Initiative-CEDI-167855486572918/",
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Empowerment, Family tracing",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872170/tracdev/ID-_57_dwiv3y.jpg",
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.535157, 5.744277]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 58,
+                "NAME": "Concern for Women and Youth Empowerment",
+                "EMAIL": "Concern4wye@yahoo.co.uk",
+                "ADDRESS": "92, DLA Road, Asaba, Delta state.",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/GbV3GdbwMjWMzZP88",
+                "PHONE": "+2347067123952",
+                "WEBSITE": "www.cowoyem.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Health",
+                    "Empowerment",
+                    "Legal",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872166/tracdev/ID-_58_hqoguw.jpg",
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.199389, 6.714056]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 59,
+                "NAME": "Development InItIatIve for Community Impact",
+                "EMAIL": "Rachael@dicingo.org.ng",
+                "ADDRESS": "Suite 22 Block B, Miriam plaza, beside Greener line Transport Airport Road Warri, Delta state",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/vndhGqQdrL5HB9WP9",
+                "PHONE": "+2348027316150",
+                "WEBSITE": "www.dicingo.org.ng",
+                "INSTAGRAM": "https://www.instagram.com/dici_ngo/",
+                "FACEBOOK": "https://www.facebook.com/dicingo",
+                "TWITTER": "https://twitter.com/dici_ngo",
+                "LOGO": "https://pbs.twimg.com/profile_images/1317233421903691776/YVNdEm58_400x400.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment", "Legal", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872177/tracdev/ID-_59_u3nots.jpg",
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.5313231, 5.7371555]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 60,
+                "NAME": "Eagle hand International Foundation",
+                "EMAIL": null,
+                "ADDRESS": "118/120 Ajamimogha Road Warri, Delta state",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/gproBDUwAvmq27yX7",
+                "PHONE": "+2348037058165",
+                "WEBSITE": "www.ehif.com.ng",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment", "Health", "Shelter"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Empowerment, Shelter ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872170/tracdev/ID-_60_we6aal.jpg",
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.52942, 5.734168]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 61,
+                "NAME": "Federation Of International Women Lawyers (FIDA)",
+                "EMAIL": "Fida2020@gmail.com",
+                "ADDRESS": "NBA House. NBA street, beside the high court, Delta state",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/CdGyYfZMuoVjyv5EA",
+                "PHONE": "+2348053771671",
+                "WEBSITE": null,
+                "INSTAGRAM": "https://www.instagram.com/fidanigdelta/",
+                "FACEBOOK": "https://www.facebook.com/fidanigeriadeltabranch/",
+                "TWITTER": "https://twitter.com/DeltaFida",
+                "LOGO": "https://pbs.twimg.com/profile_images/1318643643427803138/hImfiD92_400x400.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment", "Legal", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872171/tracdev/ID-_61_vpmmjo.jpg",
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.518045, 5.734206]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 62,
+                "NAME": "Girls Power Initiative",
+                "EMAIL": "gpiasaba@yahoo.com",
+                "ADDRESS": "61, Ezenie avenue, Asaba Delta state",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/TqhiLmVJS7pvcPaA9",
+                "PHONE": "+2348036335215",
+                "WEBSITE": "www.gpinigeria.com",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872152/tracdev/ID-_62_uqxhal.jpg",
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.1851871, 6.7326584]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 63,
+                "NAME": "Human Welfare for Empowerment Development",
+                "EMAIL": "epignosiscentre@gmail.com",
+                "ADDRESS": "Km 2, Irri/Aviara, Isoko south LGA , Delta state.",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/Tf5K7YQszGpmqKrg9",
+                "PHONE": "+2348054960064",
+                "WEBSITE": "www.euaggelion.org.ng",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/hwedisocial",
+                "TWITTER": null,
+                "LOGO": "https://www.euaggelion.org.ng/wp-content/uploads/2020/06/CRUSADERS-png-1.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Shelter", "Health", "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Health, Shelter, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872173/tracdev/ID-_63_cirp7x.jpg",
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.39449, 6.19532]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 64,
+                "NAME": "Ministry of Information",
+                "EMAIL": "isacoge@gmail.com",
+                "ADDRESS": "Ministry of Information Along summit Road, Delta state.",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/wYsjGGXPj6XDiY347",
+                "PHONE": "+2348032457273",
+                "WEBSITE": "www.deltastate.gov.ng",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/delmininfo/",
+                "TWITTER": null,
+                "LOGO": "https://scontent-los2-1.xx.fbcdn.net/v/t1.0-9/69262376_2073409529634658_4489618606878883840_n.png?_nc_cat=102&ccb=2&_nc_sid=85a577&_nc_ohc=jlx7TzlV2wQAX9eIIBv&_nc_ht=scontent-los2-1.xx&oh=6680ae5cdac40fc75621a8dd4c1c2605&oe=5FBDDA28",
+                "MODIFIED_D": "",
+                "SERVICE": ["Empowerment"],
+                "SERVICE_LIST": "Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872171/tracdev/ID-_64_aqqgbw.jpg",
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.210836, 6.700893]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 65,
+                "NAME": "Delta State Taskforce on Human Trafficking and Irregular Migration",
+                "EMAIL": "dtstaskforceonhumantrafficking@gmail.com",
+                "ADDRESS": null,
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/r5wATJq6tJ7ywnf9A",
+                "PHONE": "+2348060325910",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Legal", "Psychosocial support"
+                ],
+                "SERVICE_LIST": "Legal, Psychosocial support",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872144/tracdev/ID-_65_cfyiy6.jpg",
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.222198, 6.698199]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 66,
+                "NAME": "Ministry Of Women Affairs",
+                "EMAIL": "Dukakis4ever@gmai.com",
+                "ADDRESS": "Min. Of Women Affairs, Asaba-Illah Road, Delta state.",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/vPNUbkYofPJLRg2NA",
+                "PHONE": "+2348023455114",
+                "WEBSITE": "www.deltastate.gov.ng",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": "https://www.deltastate.gov.ng/wp-content/uploads/2019/11/logo-1-300x82.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Legal",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872141/tracdev/ID-_66_vb6d4g.jpg",
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.256133, 6.175556]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 67,
+                "NAME": "National Aids Counseling Organization",
+                "EMAIL": null,
+                "ADDRESS": "N0, 76 Central Spine Core Area, off WAEC Road, beside PDP State Secretariat",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/YEc33qfsjuLxkDHE7",
+                "PHONE": null,
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Health",
+                    "Empowerment",
+                    "Legal",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Health, Psychosocial support, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872133/tracdev/ID-_67_kyatsd.jpg",
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.213546, 6.686679]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 68,
+                "NAME": "Nigeria Child Welfare Fund",
+                "EMAIL": "jakpoomorere@gmail.com",
+                "ADDRESS": "17 Effurun Sapele road by Abala street, Enerhen Junction, Effurun Delta state.",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/CNSFAokVJ9Dz1gCd6",
+                "PHONE": "+2348033191830",
+                "WEBSITE": "www.nigeriachildwelfarefund.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/nigerianchildwelfare/",
+                "TWITTER": "https://twitter.com/joshuaomorere",
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Health",
+                    "Empowerment",
+                    "Legal",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872144/tracdev/ID-_68_vm746w.jpg",
+
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.52834, 5.773308]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 69,
+                "NAME": "Noble Delta Women for Peace International",
+                "EMAIL": "Nobledeltawomenoffice@gmail.com",
+                "ADDRESS": "No 4 Chris Okonkwo Street, Asaba No 4 Chris Okonkwo Street. Asaba, Delta state.",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/XuM6Ms2PV9QVDQPA6",
+                "PHONE": "+2348030958108",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/Noble-Delta-Women-for-Peace-and-Development-International-897703880561308/",
+                "TWITTER": "https://twitter.com/ndwpd2005",
+                "LOGO": "https://pbs.twimg.com/profile_images/1122548514817478656/wM_nWqMu_200x200.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872156/tracdev/ID-_69_lqxaeh.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.2047443, 6.7258054]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 70,
+                "NAME": "Okiero Anthony Okoro Foundation",
+                "EMAIL": "abcprincess@gmail.com",
+                "ADDRESS": "N0 40, Hospital Road Ekpan. Warri, Delta state.",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/8YBKfgXXTAUffuvZ6",
+                "PHONE": "+2348034461133",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872141/tracdev/ID-_70_lpgrbc.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.563214, 5.751618]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 71,
+                "NAME": "Participatory Initiative for Peace and Development",
+                "EMAIL": "pdinigeria@yhoo.com",
+                "ADDRESS": "64, Dr Emmanuel Uduaghan way ,(Summit Road)  Asaba. Effurun, Delta state.",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/82VKpV4FHJqSDcDh7",
+                "PHONE": "+2348069092612",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Health", "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872147/tracdev/ID-_71_wp2fnr.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.211869, 6.70145]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 72,
+                "NAME": "Peace Health Enviroment Water Against Human Trafficking ",
+                "EMAIL": "phewfoundationintl@gmail.com",
+                "ADDRESS": "No 42, Hospital Rd by Seat of Wisdom School Ekpan Warri, Delta State.",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/9fxHKrLRZgBjom4j7",
+                "PHONE": "+2348066792587",
+                "WEBSITE": "IDI",
+                "INSTAGRAM": "https://www.instagram.com/phew_fndn_warri/",
+                "FACEBOOK": "https://www.facebook.com/PHEW-Foundation-International-309982273068424/",
+                "TWITTER": "https://twitter.com/phew_fndn_warri",
+                "LOGO": "https://pbs.twimg.com/profile_images/1052948556364095490/zIatZSaV_bigger.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Health",
+                    "Legal",
+                    "Empowerment",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872140/tracdev/ID-_72_xr3pma.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.5625189, 5.7513351]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 73,
+                "NAME": "Redemmers Life Link ",
+                "EMAIL": "Rellim2007@yahoo.com",
+                "ADDRESS": "17 Umudaike Quarters, Ibusa Road. Asaba , Delta State.",
+                "STATE": "Delta State.",
+                "DIRECTION": "https://goo.gl/maps/Atxp4y5nEJY5eA8w6",
+                "PHONE": "+234807038214907",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Health", "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872137/tracdev/ID-_73_tyyak6.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.2047443, 6.7258054]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 74,
+                "NAME": "Rural Linkage Network",
+                "EMAIL": "patnokah@gmail.com",
+                "ADDRESS": "15, Good street, Boji Boji. Agbor, Delta State.",
+                "STATE": "Delta State.",
+                "DIRECTION": null,
+                "PHONE": "+2348037145095",
+                "WEBSITE": "www.rurallinkage.net",
+                "INSTAGRAM": "https://www.instagram.com/rurallinkage/",
+                "FACEBOOK": "https://www.facebook.com/rurallinkagenetwork",
+                "TWITTER": null,
+                "LOGO": "https://scontent-los2-1.xx.fbcdn.net/v/t1.0-9/74602101_107289417421488_7940432431859892224_n.png?_nc_cat=106&ccb=2&_nc_sid=85a577&_nc_ohc=ZpYx6FtZyUwAX_pOgoO&_nc_ht=scontent-los2-1.xx&oh=2a72c06567d5a15480c363910a47cd05&oe=5FBE86D3",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Health", "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604872128/tracdev/ID-_74_obk3tk.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [5.5625189, 5.7513351]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 75,
+                "NAME": "CeceYara Fdoundation",
+                "EMAIL": "info@ceceyara.org, help@ceceyara.org",
+                "ADDRESS": "D2 Salatu Royal Estate, Wuse 2 Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/fgkimARnRPFUzTB2A",
+                "PHONE": "+2348008008001",
+                "WEBSITE": "www.ceceyara.org",
+                "INSTAGRAM": "https://www.instagram.com/cece_yara/",
+                "FACEBOOK": "https://facebook.com/ceceyarafoundation",
+                "TWITTER": "https://twitter.com/cece_yara",
+                "LOGO": "https://www.ceceyara.org/images/logo2.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Shelter",
+                    "Health",
+                    "Empowerment",
+                    "Legal",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Health, Shelter, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889917/tracdev/Id-_75_h5j6go.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.084262, 7.47443]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 76,
+                "NAME": "Child and Youth Protection Foundation (CYPF)",
+                "EMAIL": "cyfoffice@gmail.com",
+                "ADDRESS": "Plot 27, T-pumpy Estate Phase 17 off Winner’s Highway FHA Lugbe, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/gBFpyZDwSYrBdnYQ6",
+                "PHONE": "+2349069181765",
+                "WEBSITE": "www.cypfnigeria.com",
+                "INSTAGRAM": "https://www.instagram.com/cypf_foundation/",
+                "FACEBOOK": "https://facebook.com/cypfoundation",
+                "TWITTER": "https://twitter.com/cypfoundation",
+                "LOGO": "https://www.cypfnigeria.com/static/homepage/assets/logo.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Health", "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889916/tracdev/ID-_76_k86poj.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.00769, 7.345842]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 77,
+                "NAME": "Daugthers of Abraham Foundation (DOAF)",
+                "EMAIL": "Daughtersofabrahamfoundation1994@yahoo.com",
+                "ADDRESS": "Plot 680, Shehu Musa Yar’adua way Jabi, Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/hdCBfgxTLDhsywJW7",
+                "PHONE": "+2348033144943",
+                "WEBSITE": "www.doaf.org.ng",
+                "INSTAGRAM": "https://www.instagram.com/daughtersofabraham/",
+                "FACEBOOK": "https://m.facebook.com/DaughtersOfAbrahamFoundation/",
+                "TWITTER": "https://twitter.com/DaughersOf",
+                "LOGO": "http://doaf.org.ng/wp-content/uploads/2019/03/cropped-DOAF3.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Health",
+                    "Legal",
+                    "Empowerment",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Health, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889911/tracdev/ID-_77_aesaev.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.076383, 7.431666]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 78,
+                "NAME": "Even Charity Nigeria",
+                "EMAIL": "Evencharitynigeria@gmail.com, Info@evencharitynigeria.org",
+                "ADDRESS": "Abuja Children’s home, 27 George Akume street, Karu site Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/xWoyqZEeLvad6S8f8",
+                "PHONE": "+2348034505571",
+                "WEBSITE": "www.evencharitynigeria.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Legal", "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889910/tracdev/ID-_78_qso0py.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.01119, 7.5660335]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 79,
+                "NAME": "Media Campaign Against Human Trafficking (MECAHT)",
+                "EMAIL": "Mecahtafrica@gmail.com",
+                "ADDRESS": "MeCAHT Centre, Plot 487 along 1 (R) 73 Road Lugbe Estate, Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/XxQmBUHpp1XsgaPk6",
+                "PHONE": "+2348034531574",
+                "WEBSITE": "https://www.mecahtnig.org",
+                "INSTAGRAM": "https://www.instagram.com/mecahtng/",
+                "FACEBOOK": "https://www.facebook.com/mecaht",
+                "TWITTER": "https://twitter.com/mecahtng",
+                "LOGO": "https://www.mecahtnig.org/assets/logos/logo.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Health",
+                    "Empowerment",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889913/tracdev/ID-_79_sn6u3x.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.986929, 7.362335]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 80,
+                "NAME": "Mirian Pat Foundation",
+                "EMAIL": "mirianpatfoundationofficial@gmail.com",
+                "ADDRESS": "Suite B8 2XL mall Beside Zenith Bank off 3rd Avenue, Gwarimpa Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/AbXj7HFPMg4T1pZN7",
+                "PHONE": "+2349029338162",
+                "WEBSITE": "www.mirianpatfoundation.org",
+                "INSTAGRAM": "https://www.instagram.com/mirian_foundation",
+                "FACEBOOK": "https://www.facebook.com/Miriancf_%20MCF",
+                "TWITTER": "https://twitter.com/MiriancfM",
+                "LOGO": "https://mirianpatfoundation.org/wp-content/uploads/2020/08/mpf-logo.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Health", "Empowerment"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889918/tracdev/ID-_80_mff8fg.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.0662636, 7.47440931]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 81,
+                "NAME": "National Agency for the Control of Aids",
+                "EMAIL": "falola-Anoemuah@naca.gov.ng",
+                "ADDRESS": "No 3,Zinguinchoor street, off IBB way, beside Abuja Electricity Distribution Company, Zone 4 Wuse Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/AbXj7HFPMg4T1pZN7",
+                "PHONE": "6222",
+                "WEBSITE": "www.naca.gov.ng",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://web.facebook.com/nacanigeria/",
+                "TWITTER": "https://twitter.com/NACANigeria",
+                "LOGO": "https://naca.gov.ng/wp-content/uploads/2019/09/NACA-banner-edited.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Health"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889907/tracdev/ID-_81_jsd83o.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.0662636, 7.4744093]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 82,
+                "NAME": "Nigerian Network of Religious Leaders Living with or Personally Affected by HIV AIDS, (NINERELA)",
+                "EMAIL": "amberitohan@yahoo.com",
+                "ADDRESS": "71, Citec Villa 4th  Avenue Gwarimpa, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/yGHWJavu7a8RTjMw6",
+                "PHONE": "+2348037722991",
+                "WEBSITE": "www.ninerela.org.ng",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": "https://twitter.com/ninerelaplus01",
+                "LOGO": "http://www.ninerela.org.ng/images/icon/logo_transparent_main_.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Health", "Empowerment"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889907/tracdev/ID-_82_ufi6vg.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.1186153, 7.4005094]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 83,
+                "NAME": "Nigeria Police Anti-Human Trafficking Unit",
+                "EMAIL": "ogechijose@yahoo.com",
+                "ADDRESS": "Nigeria Police Criminal Investigation Department Hg, Area 11, Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/uBspW4VXvzH72Jvo8",
+                "PHONE": "+2348033206166",
+                "WEBSITE": "Npf.gov.ng",
+                "INSTAGRAM": "https://www.instagram.com/nigeriapoliceforce/",
+                "FACEBOOK": "https://www.facebook.com/ngpolice/",
+                "TWITTER": "https://twitter.com/policeNG",
+                "LOGO": "https://npf.gov.ng/images/logo.png",
+                "MODIFIED_D": "",
+                "SERVICE": ["Legal"],
+                "SERVICE_LIST": "Legal",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889910/tracdev/ID-_83_zx7yaf.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.040409, 7.486356]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 84,
+                "NAME": "Ogedegede Community Development Foundation",
+                "EMAIL": "Ocdf10@gmail.com",
+                "ADDRESS": "11, Ngwa close, Area 3 Garki Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/Rp8z8MZMdjTjYCK47",
+                "PHONE": "+2349015944321",
+                "WEBSITE": "www.myocdf.wordpress.com",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/OCDFAfrica/",
+                "TWITTER": "https://twitter.com/OCDF4",
+                "LOGO": "https://myocdf.files.wordpress.com/2020/04/ocdf-43899472129596387646.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Legal", "Empowerment", "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889910/tracdev/Id-_84_f8neqj.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.030907, 7.48568]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 85,
+                "NAME": "Sam Empowerment Foundation",
+                "EMAIL": "omoh@samempowerment.org",
+                "ADDRESS": "12, Karaye street off, Amurie Omnze street off Samuel Ladoke Bulevard, Garki 2 Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/Fw5H8PFPAem6Vk8p6",
+                "PHONE": null,
+                "WEBSITE": "http://samempowermentfoundation.org",
+                "INSTAGRAM": "https://www.instagram.com/samempowermentfoundation/?hl=en",
+                "FACEBOOK": "https://www.facebook.com/SamEmpowermentFoundation?_rdc=1&_rdr",
+                "TWITTER": "https://twitter.com/SamEmpowerment",
+                "LOGO": "http://samempowermentfoundation.org/wp-content/uploads/2020/09/cropped-New-Sef-logo.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Health",
+                    "Legal",
+                    "Empowerment",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889900/tracdev/ID-_85_wlqejg.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.022901, 7.494509]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 86,
+                "NAME": "SOAR Initiative",
+                "EMAIL": "m.nwachukwu@soar.org.ng",
+                "ADDRESS": "Suit AC1 Apo Sparklight Mall, Opposite Living Faith Church Durumi, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/QcJE34xbvc1y63eRA",
+                "PHONE": "+2348089606062",
+                "WEBSITE": "https://soar.org.ng",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/soar.initiative1/",
+                "TWITTER": "https://twitter.com/SOARInitiative",
+                "LOGO": "https://soar.org.ng/wp-content/uploads/2020/06/cropped-SEXUAL-11.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889899/tracdev/ID-_86_ukvped.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.017236, 7.473961]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 87,
+                "NAME": "Society for the Reconciliation of Distressed Nigerians in Diaspora",
+                "EMAIL": "info@sorenid.org",
+                "ADDRESS": "Plot 26, Sir Uche Okafor Crescent, Karu site Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/uiHL92p1jRPr3HHa9",
+                "PHONE": "+2348061147739",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": ["Empowerment"],
+                "SERVICE_LIST": " Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889899/tracdev/ID-_87_zztwto.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.01119, 7.566034]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 88,
+                "NAME": "Widows and Orphan Empowerment Foundation (WEWE)",
+                "EMAIL": "norame@weweng.org",
+                "ADDRESS": "No.25 Idanre Hills Street, MSSCO Platinum City Estate. Galadimawa Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/Uj3mk71hqgvZp5Jh7",
+                "PHONE": "+2349037810185",
+                "WEBSITE": "www.weweng.org",
+                "INSTAGRAM": "https://www.instagram.com/ngowewe/?hl=en",
+                "FACEBOOK": "https://www.facebook.com/pg/weweng.org",
+                "TWITTER": "https://twitter.com/WEWENGO",
+                "LOGO": "https://weweng.org/wp-content/uploads/2020/09/mod2-2048x375.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Health", "Empowerment"
+
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889901/tracdev/ID-_88_huohgz.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.995832, 7.428704]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 89,
+                "NAME": "Women Trafficking and Child Labour Eradication Foundation (WOTCLEF)",
+                "EMAIL": "wotclef@yahoo.com",
+                "ADDRESS": "22/24 Oliver De Coque, 24 crescent, 3rd Avenue Gwarimpa, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/7QZfhZT7h7gtitot8",
+                "PHONE": null,
+                "WEBSITE": "www.wotclef.org.ng",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/wotclefng",
+                "TWITTER": null,
+                "LOGO": "https://www.wotclef.org.ng/assets/img/wotclef.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Health",
+
+                    "Empowerment",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Health, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889897/tracdev/ID-_89_oyyt7q.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.105102, 7.407206]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 90,
+                "NAME": "Adonai Health and Development Foundation",
+                "EMAIL": "ahadefnigeria@yahoo.com",
+                "ADDRESS": "Suite 130 Lozumba Complex Area 10 Garki Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/3pCTcUEyQHy1JGXg8",
+                "PHONE": "+2348064260123",
+                "WEBSITE": "www.ahadef.org.ng",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/Adonai-Health-and-Development-Foundation-Ahadef-669062963160820/",
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Health"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889900/tracdev/ID-_90_okulea.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.036829, 7.483529]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 91,
+                "NAME": "Elohim Foundation",
+                "EMAIL": " joy@elohimfoundation.org.ng , elohimfoundation@gmail.com",
+                "ADDRESS": "Plot 170 C sultan/Dasuki street , 2/2 Kubwa- Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/X7umdyT1yzu4DG1s9",
+                "PHONE": "+2348037572517",
+                "WEBSITE": "www.elohimfoundation.org.ng",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/elohimfoundation",
+                "TWITTER": "https://www.facebook.com/elohimfoundation",
+                "LOGO": "https://elohimfoundation.org.ng/wp-content/uploads/2019/10/logo3.jpg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Health",
+                    "Legal",
+                    "Empowerment",
+                    "Family tracing"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Legal, Empowerment, Family tracing ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889895/tracdev/ID-_91_qifbx5.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.14448, 7.32385]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 92,
+                "NAME": "FCT Social Development Secretariat",
+                "EMAIL": "ngezeonu@yahoo.com",
+                "ADDRESS": "FCT Social Development Secretariat, Area 10, Garki Abuja, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/tLzWLDbzPhXkEZwG9",
+                "PHONE": "+2348078111126",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Health", "Shelter", "Empowerment"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Shelter, Health, Empowerment",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889899/tracdev/ID-_92_mmji1k.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.037777, 7.485639]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 93,
+                "NAME": "Jomurota  Community Care Initiative",
+                "EMAIL": "jomurota@gmail.com",
+                "ADDRESS": "Suite 3 Opposite NICON Insurance Along Gwagwalada Area Council Secretaria, FCT.",
+                "STATE": "FCT.",
+                "DIRECTION": "https://goo.gl/maps/yBnumc2ZRZZVytHb8",
+                "PHONE": "+2347057961771",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/JomurotaCommunityCareInitiativeJcci/",
+                "TWITTER": "https://twitter.com/jomurota",
+                "LOGO": "https://pbs.twimg.com/profile_images/378800000743448753/b4213b341364f1848063ac245422ee37_200x200.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Health", "Empowerment"
+                ],
+                "SERVICE_LIST": "Psychosocial support, Health, Empowerment ",
+                "CREATED_DA": "2015/05/20",
+                "MAP": "https://res.cloudinary.com/trac-development-hub/image/upload/v1604889893/tracdev/ID-_93_nmesk5.jpg",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [9.037777, 7.485639]
+            }
         }
+
 
     ]
 

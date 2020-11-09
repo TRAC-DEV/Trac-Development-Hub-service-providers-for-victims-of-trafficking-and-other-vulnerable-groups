@@ -50,7 +50,6 @@ function MapNavbar() {
         />
       ) : null}
       <Navbar className={"fixed-top " + navbarColor} color="info" expand="lg">
-      
         <Container>
           <div className="navbar-translate">
             <NavbarBrand href="/index" id="navbar-brand">
@@ -76,22 +75,36 @@ function MapNavbar() {
             isOpen={collapseOpen}
             navbar
           >
-            
             <Nav navbar>
-            <UncontrolledDropdown nav>
+              <UncontrolledDropdown nav>
                 <DropdownToggle caret color="default" href="#" nav>
                   <i className="now-ui-icons location_map-big"></i>
                   <p>MAPS</p>
                 </DropdownToggle>
                 <DropdownMenu>
+                  <DropdownItem to="/abuja-map" tag={Link}>
+                    <i className="now-ui-icons location_pin"></i>
+                    Abuja
+                  </DropdownItem>
+                  <DropdownItem to="/delta-map" tag={Link}>
+                    <i className="now-ui-icons location_pin"></i>
+                    Delta
+                  </DropdownItem>
+                  <DropdownItem to="/edo-map" tag={Link}>
+                    <i className="now-ui-icons location_pin"></i>
+                    Edo
+                  </DropdownItem>
+                  <DropdownItem to="/lagos-map" tag={Link}>
+                    <i className="now-ui-icons location_pin"></i>
+                    Lagos
+                  </DropdownItem>
                   <DropdownItem to="/ogun-map" tag={Link}>
                     <i className="now-ui-icons location_pin"></i>
                     Ogun
                   </DropdownItem>
-                 
                 </DropdownMenu>
               </UncontrolledDropdown>
-             
+
               <NavItem>
                 <NavLink href="/faq">How to use</NavLink>
               </NavItem>

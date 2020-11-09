@@ -1,0 +1,314 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 46,
+                "NAME": "Catholic CHESS Project",
+                "EMAIL": "oezehi@yahoo.com",
+                "ADDRESS": "No1  Ezehi Ezehi Avenue, Efandion Qtrs,Uromi. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/jNoMuyLoyhTqkCUE6",
+                "PHONE": "+2348026701485",
+                "WEBSITE": "http://catholicchess.com.ng",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/catholicchessproject/",
+                "TWITTER": null,
+                "LOGO": "http://catholicchess.com.ng/wp-content/uploads/2016/11/chesslogo.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Shelter", "Empowerment", "Legal"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.696014, 6.330549]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 47,
+                "NAME": "Catholic Counselling and Education Centre/Rehabilitation Initiative for Health Care",
+                "EMAIL": "cacoedngo@gmail.com",
+                "ADDRESS": "24,Dawson Road Benin City. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/sdAdD3Zhn6bbMEMa9",
+                "PHONE": "+2349052201692",
+                "WEBSITE": "www.catholiccoed.com",
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.3453944, 5.6305324]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 48,
+                "NAME": "ChariLove Foundation, AKA Project Charilove",
+                "EMAIL": "charilove99@yahoo.com",
+                "ADDRESS": "Charilove center, Sapele Road, Opposite Specialist Hospital, by Kings square Benin City. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/b55zof6N6BDBBPCB8",
+                "PHONE": "+2348034403337",
+                "WEBSITE": "www.charilove.org",
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/public/Charilove",
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.330992, 5.62444444]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 49,
+                "NAME": "Cole Orphanage and Counselling",
+                "EMAIL": "nathyame@yahoo.com",
+                "ADDRESS": "No 25 muyinwa Road off pascal  oredo LGA Edo state. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/3WSdwKn6jAMhkamm7",
+                "PHONE": "+2348033601788",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.355631, 5.616349]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 50,
+                "NAME": "Community  for the Support of Dignity of Women (COSUDOW)",
+                "EMAIL": "cosudow99@yahoo.com",
+                "ADDRESS": "No. 6A Ehaekpen street,off Igbeamwan street,off Akpakpava Road,Benin city. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/gj2DNTmXXq3RUg1i6",
+                "PHONE": "+2348033601788",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Legal",
+                    "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.337948, 5.611275]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 51,
+                "NAME": "Initiative For Disability Empowerment With Accessibility And Support (IDEAS)",
+                "EMAIL": "ideasforthedisabled@gmail.com",
+                "ADDRESS": "89, Ekenwan Road, Benin City. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/8aRTC7DVqwpyvS8G6",
+                "PHONE": "+2348037212644",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/pathfindersji/",
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment"
+
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.346357, 5.593499]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 52,
+                "NAME": "Idia  Renaissance ",
+                "EMAIL": "idiarenaissance@yahoo.co.uk",
+                "ADDRESS": "No 3, Ihama road, Benin City. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/VWeu9Teh6Ui5LE2RA",
+                "PHONE": "+2348170007284",
+                "WEBSITE": "http://www.idia-renaissance.org",
+                "INSTAGRAM": "https://www.instagram.com/idiarenaissancengo/",
+                "FACEBOOK": "https://www.facebook.com/idiarenaissanceNGON/",
+                "TWITTER": "https://twitter.com/idiarenaissance",
+                "LOGO": "http://www.idia-renaissance.org/img/logo.png",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support", "Empowerment", "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.313458, 5.611184]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 53,
+                "NAME": "NAME Foundation",
+                "EMAIL": "namefoundation@yahoo.com",
+                "ADDRESS": "93, 2nd East Circular Rd, Benin City, Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/bjJXW6mGk2cBV3XM6",
+                "PHONE": "+2348125793721",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": "https://www.facebook.com/namefoundation/",
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Empowerment", "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.330696, 5.638318]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 54,
+                "NAME": "PathFinders Justice Initiative, Inc.",
+                "EMAIL": "reidahosa@pathfindersji.org",
+                "ADDRESS": "No 1 Faithway, off Adesuwa Grammar school Road, Benin City, Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/6qQWCRTKKbQBDMED7",
+                "PHONE": "+2348170007284",
+                "WEBSITE": "https://pathfindersji.org",
+                "INSTAGRAM": "https://www.instagram.com/findyrpath/",
+                "FACEBOOK": "https://www.facebook.com/pathfindersji/",
+                "TWITTER": "https://twitter.com/PathfindersJI",
+                "LOGO": "https://pathfindersji.org/wp-content/themes/pathfinders/images/logo_whitegreen.svg",
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Health",
+                    "Legal",
+                    "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.3032136, 5.6120388]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "PROVIDER_ID": 55,
+                "NAME": "Society for the Empowerment of Young Persons (SEYP)",
+                "EMAIL": "jenyvics@yahoo.com",
+                "ADDRESS": "No 9 Amadasun Street Off Lucky Omoregbe Strret,Off Ehigiator Off PZ Road Benin City. Edo State.",
+                "STATE": "Edo State.",
+                "DIRECTION": "https://goo.gl/maps/ZE5nyBGpVqLqP9vg6",
+                "PHONE": "+2348051656202",
+                "WEBSITE": null,
+                "INSTAGRAM": null,
+                "FACEBOOK": null,
+                "TWITTER": null,
+                "LOGO": null,
+                "MODIFIED_D": "",
+                "SERVICE": [
+                    "Psychosocial support",
+                    "Shelter",
+                    "Empowerment",
+                    "Legal",
+                    "Family tracing"
+                ],
+                "CREATED_DA": "2015/05/20",
+                "PICTURE": null
+            },
+
+            "geometry": {
+                "type": "Point",
+                "coordinates": [6.286828, 5.633825]
+            }
+        }
+
+
+    ]
+}
